@@ -6,7 +6,7 @@ A green colour scheme for vim.
 <img width="1278" alt="screenshot" src="https://user-images.githubusercontent.com/45297149/222628298-bd25413f-40ea-4a15-9436-e1b3dc9e714d.png">
 
 # Features
-- No configuration required and easy to use
+- No configuration required
 - 256-colors terminal support
 
 # License
