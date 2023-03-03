@@ -6,3 +6,4 @@ A green colour scheme for vim
 # Features
 
 # License
+MIT License. See LICENSE.txt for more information.
